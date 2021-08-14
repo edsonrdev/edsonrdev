@@ -1,6 +1,6 @@
-# 👋 Hello, my name is Edson Rodrigues.
+# 👋 Hello, i'm Edson Rodrigues.
 
-I am a novice **Front-End Developer**. I like to clone layouts from famous websites, study design trends (flatdesign, neumorphism, glassmorphism, etc.) and also create my own projects, bringing together everything I have already learned.
+I am a begining **Front-End Developer**. I like to clone layouts from famous websites, study design trends (flatdesign, neumorphism, glassmorphism, etc.) and also create my own projects, bringing together everything I have already learned.
 
 ## :rocket: :computer: Tools and Technologies
 
