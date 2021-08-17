@@ -2,7 +2,7 @@
 
 I am a beginner **Front-End Developer**. I like to clone layouts from famous websites, study design trends (flatdesign, neumorphism, glassmorphism, etc.) and also create my own projects, bringing together everything I have already learned.
 
-## :computer: Technologies
+## Technologies
 
 - ### Front-end
 
@@ -23,12 +23,6 @@ In the Back-end (where I am leaving to focus on the Front-end), I have already u
 ![image](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![image](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![image](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### Tools
-
-Tools from my development environment:
-
-![image](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
