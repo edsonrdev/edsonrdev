@@ -2,9 +2,9 @@
 
 I am a beginner **Front-End Developer**. I like to clone layouts from famous websites, study design trends (flatdesign, neumorphism, glassmorphism, etc.) and also create my own projects, bringing together everything I have already learned.
 
-- ## :computer: Technologies
+## :computer: Technologies
 
-### Front-end
+- ### Front-end
 
 I currently use the following Front-end tools and technologies:
 
@@ -15,7 +15,7 @@ I currently use the following Front-end tools and technologies:
 ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![image](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
-### Back-end
+- ### Back-end
 
 In the Back-end (where I am leaving to focus on the Front-end), I have already used:
 
