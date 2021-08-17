@@ -40,11 +40,10 @@ You can also find me at the following addresses:
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edsssonrodrigues)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/edsonr.dev)
 
-## Conclusion
-
 ## Statistics
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edsonrdev)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edsonrdev&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+## Conclusion
 
 So guys, let's code together and reach the next level!
