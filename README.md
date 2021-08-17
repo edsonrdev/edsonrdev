@@ -40,7 +40,7 @@ You can also find me at the following addresses:
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edsssonrodrigues)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/edsonr.dev)
 
-## Statistics
+## GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edsonrdev&show_icons=true&theme=radical)](https://github.com/edsonrdev/github-readme-stats)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=edsonrdev&layout=compact)](https://github.com/edsonrdev/github-readme-stats)
