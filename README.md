@@ -43,7 +43,7 @@ You can also find me at the following addresses:
 ## GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edsonrdev&show_icons=true&theme=radical)](https://github.com/edsonrdev/edsonrdev/blob/main/README.md)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=edsonrdev&layout=compact)](https://github.com/edsonrdev/edsonrdev/blob/main/README.md)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=edsonrdev&layout=compact&theme=radical)](https://github.com/edsonrdev/edsonrdev/blob/main/README.md)
 
 ## Conclusion
 
